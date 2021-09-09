@@ -1,0 +1,14 @@
+body{
+	height: 95vh;
+	width: 95;
+	display: flex;
+	justify-content: center;
+	align-item: center;
+	flex-direction: column;
+	background-color: #606b56;
+	
+	color: #dcdcdc;
+	font-family: Verdana;
+	font-weight: 700;
+	
+}
